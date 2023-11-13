@@ -7,6 +7,6 @@ https://speakerdeck.com/aakira/flutter-kaigi-2023
 https://speakerdeck.com/aakira/flutter-kaigi-2023?slide=35
 子Widgetにconstをつけることで、親Widgetの再描画時のdidUpdateWidget、buildが呼ばれなくなる。
 
-### (2)AppLifecycleStateについて
+### (2)AppLifecycleStateについて(3.13.0以降)
 https://speakerdeck.com/aakira/flutter-kaigi-2023?slide=52
 
